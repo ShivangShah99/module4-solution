@@ -3,7 +3,7 @@ Solution of assignment 4:
 
 Expected output:
 
-Hello Yaakov
+Hello Yaakov 
 Good Bye John
 Good Bye Jen
 Good Bye Jason
